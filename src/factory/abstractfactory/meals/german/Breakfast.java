@@ -13,7 +13,7 @@ public class Breakfast implements Meal {
     }
 
     @Override
-    public void dispayMeal() {
+    public void displayMeal() {
         System.out.println(description + " is " + calories + " calories.");
     }
 }
