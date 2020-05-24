@@ -11,7 +11,7 @@ public class Lunch implements Meal {
     }
 
     @Override
-    public void dispayMeal() {
+    public void displayMeal() {
         System.out.println(description);
     }
 }
